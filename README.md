@@ -1,1 +1,1 @@
-Growth Mindset Challenge: Web App with Streamlit
+# Growth Mindset Challenge: Web App with Streamlit
