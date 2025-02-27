@@ -1,1 +1,1 @@
-# Growth-Mindset-AI_Project_2
+Growth Mindset Challenge: Web App with Streamlit
